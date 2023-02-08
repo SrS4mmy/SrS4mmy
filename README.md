@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size:250px">ＷＥＬＣＯＭＥ　ＴＯ　ＭＹ　ＰＲＯＦＩＬＥ</h1>
 
 
-### 🛠 Languange:
+### 🛠 Language:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
